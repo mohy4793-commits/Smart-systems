@@ -7,7 +7,7 @@
 
 | النظام | الإصدارات | الاسم القديم ← الاسم الجديد |
 |---|---|---|
-| محرّك التوأم | v3 ← v4 ← **v5** | `9--system (3)` ← `TWIN-ENGINE-v3` · `10--system (4)` ← `TWIN-ENGINE-v4` · `11--system (5)` ← `systems/01-twin/TWIN-ENGINE-v5` |
+| محرّك التوأم | v3 ← v4 ← v5 ← **v6** | `9--system (3)` ← `TWIN-ENGINE-v3` · `10--system (4)` ← `TWIN-ENGINE-v4` · `11--system (5)` ← `TWIN-ENGINE-v5` · النسخة المعتمدة `systems/01-twin/TWIN-ENGINE-v6` |
 | 5 PRO Twin Studio | v1 ← v1.1 ← **v2** | `system 5 PRO` ← `v1` · `محدثه/system 5 PRO v2` ← `v1.1` · `الأخير/system 5 PRO v2` ← `systems/01-twin/S05-PRO-twin-studio-v2` |
 | 8 Felt Image | v3 ← v3.1 ← **v4** | `system 8 v3` ← `v3` · `محدثه/system 8 v4` ← `v3.1` (عنوانه الداخلي v3، أضاف «Cliché wall») · `الأخير/system 8 v4` ← `systems/03-text/S08-felt-image-v4` |
 | 9 Human Touch | v1 ← v2 ← **v3** | `system 9` ← `v1` · `system 9 v2` ← `v2` · `system 9 v3` ← `systems/02-photo/S09-human-touch-v3` |
