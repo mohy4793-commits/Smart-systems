@@ -15,7 +15,7 @@
 | 12 Drawn Layer | v1 ← **v2** | `الأخير` و`جديد/SYSTEM 12 DRAWN LAYER` (نسختان متطابقتان) ← `v1` · `مميز/THE DRAWN LAYER v2` ← `systems/02-photo/S12-drawn-layer-v2` |
 | 12 Dream Lines | v1 ← **v3** | `مميز/SYSTEM_12_DREAM_LINES 1` ← `v1` · `مميز/DREAM LINES v3` ← `systems/02-photo/S12-dream-lines-v3` |
 | 13 Placed in the Real | v1 ← **v2** | `الأخير` و`جديد/SYSTEM 13` (نسختان متطابقتان) ← `v1` · `مميز/... v2` ← `systems/02-photo/S13-placed-in-the-real-v2` |
-| 15 Mirror | v1 ← v3 ← **v4** | `SYSTEM 15 THE MIRROR` ← `S15-mirror-v1` · `SYSTEM 15 v3` ← `S15-mirror-engine-v3` · النسخة المعتمدة `systems/05-engines/S15-mirror-engine-v4` |
+| 15 Mirror | v1 ← v3 ← v4 | `SYSTEM 15 THE MIRROR` ← `S15-mirror-v1` · `SYSTEM 15 v3` ← `S15-mirror-engine-v3` · `S15-mirror-engine-v4`. **حلّ محله النظام 17 لوحة الحدث** `systems/05-engines/S17-event-canvas` |
 | 16 Critique | v1 ← **v2** | `SYSTEM 16 CRITIQUE OF THE PURE IMAGE` ← `S16-critique-of-the-pure-image-v1` · النسخة المعتمدة `systems/05-engines/S16-critique-of-the-pure-image-v2` |
 
 ## ما حُذف
