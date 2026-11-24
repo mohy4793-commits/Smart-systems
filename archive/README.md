@@ -12,7 +12,7 @@
 | 8 Felt Image | v3 ← v3.1 ← **v4** | `system 8 v3` ← `v3` · `محدثه/system 8 v4` ← `v3.1` (عنوانه الداخلي v3، أضاف «Cliché wall») · `الأخير/system 8 v4` ← `systems/03-text/S08-felt-image-v4` |
 | 9 Human Touch | v1 ← v2 ← **v3** | `system 9` ← `v1` · `system 9 v2` ← `v2` · `system 9 v3` ← `systems/02-photo/S09-human-touch-v3` |
 | 10 Thinking Eye | v1 ← v2 ← v2.1 ← **v3** | `system 10` ← `v1` · `system 10 v2` ← `v2` · `محدثه/system 10 v3` ← `v2.1` (عنوانه الداخلي v2، أضاف «Cliché wall») · `الأخير/system 10 v3` ← `systems/02-photo/S10-thinking-eye-v3` |
-| 12 Drawn Layer | v1 ← **v2** | `الأخير` و`جديد/SYSTEM 12 DRAWN LAYER` (نسختان متطابقتان) ← `v1` · `مميز/THE DRAWN LAYER v2` ← `systems/02-photo/S12-drawn-layer-v2` |
+| 12 Drawn Layer | v1 ← v2 ← **v3** | `الأخير` و`جديد/SYSTEM 12 DRAWN LAYER` (نسختان متطابقتان) ← `v1` · `مميز/THE DRAWN LAYER v2` ← `S12-drawn-layer-v2` · النسخة المعتمدة `systems/02-photo/S12-drawn-layer-v3` |
 | 12 Dream Lines | v1 ← **v3** | `مميز/SYSTEM_12_DREAM_LINES 1` ← `v1` · `مميز/DREAM LINES v3` ← `systems/02-photo/S12-dream-lines-v3` |
 | 13 Placed in the Real | v1 ← **v2** | `الأخير` و`جديد/SYSTEM 13` (نسختان متطابقتان) ← `v1` · `مميز/... v2` ← `systems/02-photo/S13-placed-in-the-real-v2` |
 | 15 Mirror | v1 ← v3 ← v4 | `SYSTEM 15 THE MIRROR` ← `S15-mirror-v1` · `SYSTEM 15 v3` ← `S15-mirror-engine-v3` · `S15-mirror-engine-v4`. **حلّ محله النظام 17 لوحة الحدث** `systems/05-engines/S17-event-canvas` |
