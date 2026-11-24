@@ -17,6 +17,7 @@
 | 13 Placed in the Real | v1 ← **v2** | `الأخير` و`جديد/SYSTEM 13` (نسختان متطابقتان) ← `v1` · `مميز/... v2` ← `systems/02-photo/S13-placed-in-the-real-v2` |
 | 15 Mirror | v1 ← v3 ← v4 | `SYSTEM 15 THE MIRROR` ← `S15-mirror-v1` · `SYSTEM 15 v3` ← `S15-mirror-engine-v3` · `S15-mirror-engine-v4`. **حلّ محله النظام 17 لوحة الحدث** `systems/05-engines/S17-event-canvas` |
 | 16 Critique | v1 ← **v2** | `SYSTEM 16 CRITIQUE OF THE PURE IMAGE` ← `S16-critique-of-the-pure-image-v1` · النسخة المعتمدة `systems/05-engines/S16-critique-of-the-pure-image-v2` |
+| 14 Stance | v1 ← **v2** | `SYSTEM 14 THE STANCE` ← `S14-the-stance-v1` · النسخة المعتمدة `systems/04-maps/S14-the-stance-v2` |
 
 ## ما حُذف
 - ملف `خاص بجميع الانظمه .zip` بعد فكّه وتوزيع محتواه.
